@@ -4,3 +4,6 @@ Besides being useful in general, this is also an example for implementing Growl 
 
 # Downloading GrowlMail
 Please visit <http://code.google.com/p/growlmail/downloads/list> to download the latest version of GrowlMail
+
+#This Fork
+Is meant to work with Mac OS X Lion 10.7.5.
